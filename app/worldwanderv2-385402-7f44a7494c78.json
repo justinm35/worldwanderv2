@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "worldwanderv2-385402",
+  "private_key_id": "7f44a7494c78268cff56608e91208774078a82fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1oeXlerVWg83Y\nZSrqKdB8C5u5/Kz0/UOiHL9ak2GaTMQST+D+xLHkiLKQxZvTGEftHKahrKtXLcvk\nnE0cCsy2wrsZTxOn39xhoOAvIaCECQxAemNh7p0sqJJCyGV0rfw2EEl/eLOL/rQc\n2C4/HEZvG9MY4JhhPsJjXfbogpaBxUEmUB8DMw8y6fBttB71mCsVE3jlEQHgVwmD\n/xkacAmNndMpTNYY2OqqZ7M8CiYer8h3YZ3zI05QrTpY14h9mMbe+WaE1IrkTZUA\nDJAA/YkwspaTDjfnm737p7pe7/4q8nzPP+o7rBPUBYdV0enGQ2q5svMLQ5n7Cnik\nVx8odZ8xAgMBAAECggEAAQGiQ5beF5pAGxt3ZQgBh9hsHtgRsMNQ+z5XyJWRuEBF\n41iWNW8rUan4vFDd+8nSBzQuD64EXoWqUCxWCIpeR0J1tS6RHDBjORbCOzyfVi/z\nJY3QDGg9LnTKJ6zS1BZNNBL7x0Uo0IUjJBhGDFM4qC+yKByBd6N4ggKwpinoEdS+\nr8JyxxiORkZo1jVAonM365knGAniKRCN7tt+J3rUA4x3SDKz86TuQluUAw7MmJ44\nKig7txjmqXnmhp05fUm++5cQ7wmb+g3Qc7i6pT2Jx0JyJn7oFbz6bmh3h7Mzzq+Y\nFoTAQKJksHdy5LDjWNCt54BmWdIRlfteU+kI2CjDqQKBgQDxCgiWwtglbqREOUKN\nooSOhopyPu0VegxPstiPF7Du3KUvA9p/NlN6FLnnYfgIqBV7gsaCNkNKhfL/5Mnt\nVYLNPJ0aNQ61S+Sri4b/zIY3vbcPqMnWELWlB9MKVxDKijxHwL0Y1FHco5tRQNVw\nlE41zhIpH4id6HSDTAsUBSwE6QKBgQDA5+1EXWCOadC91bxR0hQkv9VLQDJpZVjq\nWOnm0xV4XZ7JOA0n2KVooF5P8R26HisQrXlFRofiZDH8wZoXOeWrJKlNNTeXngVT\n4jJKslqTmLe8LuAg4M/ybzAdoJpfJtFVJHqyHMjvd4WKUWrHITIfM9n/QbU8A9Aq\njS4qjLH7CQKBgByohLzoDarlrMIvzKnqWLhZZryOnsGe8TfIm9bnijHcKgec/a2C\nWAp7zF6mV0cwNN2qfs+chAOoSWwDV77QG+0q98LV7BnCHD4JKNPhDVQzSkCiYN0C\nv5YPiBgCogxywxgE4nbBR7pj+WN/weDQwTvEdIRPK38a1D+IGwkWVFWBAoGAM8UK\nU/KLWyzirE+T/pFWfpZM86kC3m4ocpvyCdRUSr01Q+MbBLqLiYygQuv+glheTld/\n2CuZhBRHpgF/DQSosklgdiv2A2aRH3Xw8UL0M/AkPwiFdc1fgTx9uTXEuAx+2U60\n7t/yvPFikUBQW6h4/w63Tl2f+b88Om8xGJIxoaECgYB0Q9s/Tzc2LxpThuGczoIk\nZ7WIT/+n8IQDKA39z0qdISAnvMZMtxce37uU/3phwbaXmpB4Xv/HqoXdePVk67hg\n5O42f9+KrTbvcrqE5Hj1RJlxFSfWOYL2XvyZwDyS29haXZVBEEvJ+2wwMGvnh95j\nMCOeyzzZIyr+5wnk6sQOYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "worldwanderv2@worldwanderv2-385402.iam.gserviceaccount.com",
+  "client_id": "107033021469566879032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/worldwanderv2%40worldwanderv2-385402.iam.gserviceaccount.com"
+}
